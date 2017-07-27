@@ -26,4 +26,4 @@ Python is
 6. **Fun** - Python is fun to write and read.
 
 
-#### [Documentation And Resources](./docs_and_res.md)
+#### [Documentation And Resources](./02_docs_and_res.md)
