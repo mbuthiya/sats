@@ -26,4 +26,4 @@ We type in `python3.6` then the name of the file `module_test.py`. The code is i
 A python program is a collection of modules that are linked to perform a particular function
 
 ---
-### Lesson 5 [Python Import](./03_python_import.md)
+### Lesson 5 [Python Import](./05_python_import.md)
