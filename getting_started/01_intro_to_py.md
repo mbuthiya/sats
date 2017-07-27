@@ -25,5 +25,5 @@ Python is
 5. **Large** - Due to it being general purpose it comes with a large and extensive standard library and also has a large library for third party modules
 6. **Fun** - Python is fun to write and read.
 
-
-#### [Documentation And Resources](./02_docs_and_res.md)
+---
+#### Lesson 2:[Documentation And Resources](./02_docs_and_res.md)

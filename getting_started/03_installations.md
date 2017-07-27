@@ -110,4 +110,5 @@ $
 
 Once Installations are done, we can move on and start learning some Python
 
-### [Feedback](https://goo.gl/forms/eVTveYUjyeQUTZDg2)
+---
+### Time for [Feedback](https://goo.gl/forms/eVTveYUjyeQUTZDg2)

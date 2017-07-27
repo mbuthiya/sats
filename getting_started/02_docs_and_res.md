@@ -18,4 +18,5 @@ This is a really good resource if you want to get quick information, and example
 #### [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/)
 This Is really awesome for a hands on approach to python.You will get to learn python topics and complete exercises on  them.
 
-#### [Install Python](./03_installations.md)
+---
+#### Lesson 3: [Install Python](./03_installations.md)
