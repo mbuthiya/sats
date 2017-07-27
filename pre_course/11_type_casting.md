@@ -56,7 +56,7 @@ print(age_weight_ratio)
 
 ```
 Run this
-```python
+```bash
 $ python3.6 example.py
 4.157894736842105
 
