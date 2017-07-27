@@ -17,7 +17,7 @@ Python is an **Interpreted Language**. Code _compilation_ and _execution_ is don
 
 ### Why Python?
 
-Python is 
+Python is
 1. **Powerful** - It is a  general-purpose language that is used in a wide variety of career fields.
 2. **Dynamic** - It can build anything from simple scripts to very large and dynamic applications.
 3. **Open Source** - so it is freely available for developers to contribute to.
@@ -26,4 +26,4 @@ Python is
 6. **Fun** - Python is fun to write and read.
 
 
-#### [Documentation And Resources]()
+#### [Documentation And Resources](./docs_and_res.md)
